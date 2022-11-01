@@ -4,15 +4,17 @@ IPFS images
 metadata
 node_modules
 
+
 NFTcontract.sol
 NFTmarketplace.sol
 RentalNFTMarketplace.sol
 reward_funding.sol
 storage.sol
-TimeBased.sol
 unstoppable
 storageSlots.sol
 WhiteList.sol
+storage.sol
+NFTmarketplace
 
 
 fundingDeploy.js
