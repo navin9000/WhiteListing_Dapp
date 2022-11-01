@@ -9,4 +9,8 @@ contract A{
     function addElements(uint value)external{
         arr.push(value);
     }
+
+    function hello()external{
+        
+    }
 }

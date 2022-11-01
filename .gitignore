@@ -10,6 +10,9 @@ RentalNFTMarketplace.sol
 reward_funding.sol
 storage.sol
 TimeBased.sol
+unstoppable
+storageSlots.sol
+WhiteList.sol
 
 
 fundingDeploy.js
@@ -23,6 +26,11 @@ storageTest.js
 test.js
 miniProject.js
 RNFTMTest.js
+unstoppable
+storageSlotsTest.js
+storageTest.js
+whiteListTest.js
+
 
 flattenedRweardBasedFunding.sol
 flattenNFTcontract.sol
